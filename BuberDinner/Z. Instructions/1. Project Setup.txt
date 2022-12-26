@@ -1,0 +1,22 @@
+  Id CommandLine
+  -- -----------
+   1 dotnet new sln -o BuberDinner
+   2 ls
+   3 cd .\BuberDinner\
+   4 ls
+   5 dotnet new webapi -o BuberDinner.Api
+   6 dotnet new classlib -o BuberDinner.Contracts
+   7 ls
+   8 dotnet new classlib -o BuberDinner.Infrastructure
+   9 dotnet new classlib -o BuberDinner.Application
+  10 dotnet new classlib -o BuberDinner.Domain
+  11 ls
+  13 dotnet sln add (ls -r **\*.csproj)
+  16 dotnet build
+  17 dotnet add .\BuberDinner.Api\ reference .\BuberDinner.Contracts\ .\BuberDinner.Application\
+  18 dotnet add .\BuberDinner.Infrastructure\ reference .\BuberDinner.Application\
+  19 dotnet add .\BuberDinner.Application\ reference .\BuberDinner.Domain\
+  20 dotnet add .\BuberDinner.Api\ reference .\BuberDinner.Infrastructure\
+
+  ====================================================================================================
+  ====================================================================================================

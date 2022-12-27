@@ -28,3 +28,5 @@ C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Bu
 C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

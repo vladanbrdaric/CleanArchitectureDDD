@@ -30,3 +30,14 @@ C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Bu
 C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
 C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\CleanArchitectureDDD\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
